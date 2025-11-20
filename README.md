@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm Sree — Cloud & DevOps Enthusiast
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Sree+Geethesh+Dhananjayan!;Cloud+%7C+DevOps+Engineer+Fresher;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Python;Building+Cloud+%26+AI+Automations+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Sree+Geethesh+Dhananjayan!;Cloud+%7C+DevOps+Engineer+Fresher;AWS+%7C+N8N+%7C+Devops+%7C+Python;Building+Cloud+%26+AI+Automations+🚀" />
 
 ---
 
