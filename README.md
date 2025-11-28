@@ -51,7 +51,7 @@ Here are some of the key projects I've worked on:
 - AWS Solutions Architect – Associate  
 - AWS Cloud Practitioner  
 - DevOps Certification  
-- SQL Server (T-SQL)  
+- SQL  
 - Power BI  
 - Prompt Engineering  
 
