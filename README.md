@@ -57,20 +57,6 @@ Here are some of the key projects I've worked on:
 
 ---
 
-# 📊 **GitHub Stats**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SREEGEETHES&theme=tokyonight&hide_border=true)
-
-![Sree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREEGEETHES&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SREEGEETHES&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 # 📈 **GitHub Activity Graph**
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SREEGEETHES&theme=react-dark&hide_border=true&area=true" />
