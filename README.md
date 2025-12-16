@@ -66,7 +66,7 @@ Here are some of the key projects I've worked on:
 
 # 🌐 **Connect With Me**
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/sreegeethesh-dhananjayan-7b2141274  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sreegeethesh-dhananjayan
 - 💼 **GitHub:** https://github.com/SREEGEETHES  
 - ✉️ **Email:** sreegeethesh@gmail.com  
 
