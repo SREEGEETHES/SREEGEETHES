@@ -33,6 +33,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 👨🏽‍💻 **AI & Tools**
+
+![Claude](https://shields.io) ![Cursor](https://shields.io) ![Codex](https://shields.io) ![Antigravity](https://shields.io) ![Opencode](https://shields.io)
+
 ---
 
 # 🚀 **Projects**
@@ -57,10 +61,9 @@ Here are some of the key projects I've worked on:
 
 ---
 
-# 📈 **GitHub Activity Graph**
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SREEGEETHES&theme=react-dark&hide_border=true&area=true" />
-</div>
+### 📈 **GitHub Activity Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SREEGEETHES&theme=react-dark&hide_border=true&area=true)
 
 ---
 
