@@ -35,8 +35,33 @@
 
 ### 👨🏽‍💻 **AI & Tools**
 
-![Claude](https://shields.io) ![Cursor](https://shields.io) ![Codex](https://shields.io) ![Antigravity](https://shields.io) ![Opencode](https://shields.io)
+<p align="center">
+  <a href="https://claude.ai">
+    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/claude.svg" width="55" height="55" alt="Claude"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cursor.com">
+    <img src="https://www.cursor.com/assets/images/logo.svg" width="55" height="55" alt="Cursor"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/openai.svg" width="55" height="55" alt="Codex"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gemini.google.com">
+    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/gemini.svg" width="55" height="55" alt="Gemini"/>
+  </a>
+</p>
 
+<p align="center">
+  <b>Claude</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Cursor</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Codex</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Gemini</b>
+</p>
 ---
 
 # 🚀 **Projects**
