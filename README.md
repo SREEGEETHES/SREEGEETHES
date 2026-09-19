@@ -33,37 +33,49 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 👨🏽‍💻 **AI & Tools**
+### 👨🏽‍💻 AI & Tools
 
 <p align="center">
   <a href="https://claude.ai">
-    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/claude.svg" width="55" height="55" alt="Claude"/>
+    <img src="./assets/ai-tools/claude.svg" width="52" height="52" alt="Claude"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cursor.com">
-    <img src="https://www.cursor.com/assets/images/logo.svg" width="55" height="55" alt="Cursor"/>
+    <img src="./assets/ai-tools/cursor.svg" width="52" height="52" alt="Cursor"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/codex/">
-    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/openai.svg" width="55" height="55" alt="Codex"/>
+    <img src="./assets/ai-tools/codex.svg" width="52" height="52" alt="Codex"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gemini.google.com">
-    <img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/gemini.svg" width="55" height="55" alt="Gemini"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gemini.google.com/">
+    <img src="./assets/ai-tools/gemini.svg" width="52" height="52" alt="Gemini"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://antigravity.google/">
+    <img src="./assets/ai-tools/antigravity.svg" width="52" height="52" alt="Antigravity"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://opencode.ai/">
+    <img src="./assets/ai-tools/opencode.svg" width="52" height="52" alt="OpenCode"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Claude</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Cursor</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Codex</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Gemini</b>
+  <sub>
+    <b>Claude</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Cursor</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Codex</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Gemini</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Antigravity</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>OpenCode</b>
+  </sub>
 </p>
----
-
 # 🚀 **Projects**
 Here are some of the key projects I've worked on:
 
