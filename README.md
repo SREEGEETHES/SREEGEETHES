@@ -72,16 +72,7 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    Claude&nbsp;&nbsp;•&nbsp;&nbsp;
-    Cursor&nbsp;&nbsp;•&nbsp;&nbsp;
-    Codex&nbsp;&nbsp;•&nbsp;&nbsp;
-    Gemini&nbsp;&nbsp;•&nbsp;&nbsp;
-    Antigravity&nbsp;&nbsp;•&nbsp;&nbsp;
-    OpenCode
-  </sub>
-</p>
+
 
 # 🚀 **Projects**
 Here are some of the key projects I've worked on:
