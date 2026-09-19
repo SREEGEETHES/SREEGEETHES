@@ -33,49 +33,82 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 👨🏽‍💻 AI & Tools
+
+### 👨🏽‍💻 **AI & Tools**
 
 <p align="center">
-  <a href="https://claude.ai">
-    <img src="./assets/ai-tools/claude.svg" width="52" height="52" alt="Claude"/>
+  <a href="https://claude.ai" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/claude-color.svg"
+      width="42"
+      height="42"
+      alt="Claude"
+      title="Claude"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cursor.com">
-    <img src="./assets/ai-tools/cursor.svg" width="52" height="52" alt="Cursor"/>
+  <a href="https://cursor.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/cursor-color.svg"
+      width="42"
+      height="42"
+      alt="Cursor"
+      title="Cursor"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/codex/">
-    <img src="./assets/ai-tools/codex.svg" width="52" height="52" alt="Codex"/>
+  <a href="https://openai.com/codex/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/codex-color.svg"
+      width="42"
+      height="42"
+      alt="Codex"
+      title="Codex"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gemini.google.com/">
-    <img src="./assets/ai-tools/gemini.svg" width="52" height="52" alt="Gemini"/>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/gemini-color.svg"
+      width="42"
+      height="42"
+      alt="Gemini"
+      title="Gemini"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://antigravity.google/">
-    <img src="./assets/ai-tools/antigravity.svg" width="52" height="52" alt="Antigravity"/>
+  <a href="https://antigravity.google/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/antigravity-color.svg"
+      width="42"
+      height="42"
+      alt="Antigravity"
+      title="Antigravity"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://opencode.ai/">
-    <img src="./assets/ai-tools/opencode.svg" width="52" height="52" alt="OpenCode"/>
+  <a href="https://opencode.ai/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gokuscraper/ai-icons/main/svgs/open-code-color.svg"
+      width="42"
+      height="42"
+      alt="OpenCode"
+      title="OpenCode"
+    />
   </a>
 </p>
 
 <p align="center">
   <sub>
-    <b>Claude</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Cursor</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Codex</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Gemini</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Antigravity</b>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>OpenCode</b>
+    Claude&nbsp;&nbsp;•&nbsp;&nbsp;
+    Cursor&nbsp;&nbsp;•&nbsp;&nbsp;
+    Codex&nbsp;&nbsp;•&nbsp;&nbsp;
+    Gemini&nbsp;&nbsp;•&nbsp;&nbsp;
+    Antigravity&nbsp;&nbsp;•&nbsp;&nbsp;
+    OpenCode
   </sub>
 </p>
+
 # 🚀 **Projects**
 Here are some of the key projects I've worked on:
 
